@@ -4,7 +4,7 @@
 
 Python 3 script to recieve Active Wellness Seat through UART and stream it to a given end point through sockets.
 
-start script with command : python3 stream_ecu.py
+start script with command : python3 active_wellness_stream.py
 
 
 License and copyright (to do later)
